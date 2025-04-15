@@ -5,4 +5,5 @@
 *验证数据来源:  [基于GPT4的中文对话增强数据](https://www.modelscope.cn/datasets/zky001/alpaca)。*<br>
 **结果展示**<br>
 问题一：如何预防感冒<br>
-![LoRa微调前](./images/Q1A.png)
+<center>![LoRa微调前](./images/Q1A.png)</center>
+<center>**图1 - 模型性能对比**​（左：Baseline，右：Fine-tuned）</center>
