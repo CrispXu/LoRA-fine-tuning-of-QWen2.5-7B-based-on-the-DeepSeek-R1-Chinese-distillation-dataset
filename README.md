@@ -3,3 +3,4 @@
 *预训练模型:  [通义千问2.5-7B-预训练](https://www.modelscope.cn/models/Qwen/Qwen2.5-7B)。*<br>
 *训练数据来源:  [中文基于满血DeepSeek-R1蒸馏数据集](https://www.modelscope.cn/datasets/liucong/Chinese-DeepSeek-R1-Distill-data-110k)。*<br>
 *验证数据来源:  [基于GPT4的中文对话增强数据](https://www.modelscope.cn/datasets/zky001/alpaca)。*<br>
+![项目架构图](./images/Q1A.png)
