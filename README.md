@@ -15,3 +15,25 @@
   <br>
   <p><em>图2 - LoRa微调后</em></p>
 </div>
+问题二：解释相对论/量子纠缠基本原理<br>
+<div align="center">
+  <img src="./images/Q2A.png" width="60%">
+  <br>
+  <p><em>图3 - LoRa微调前</em></p>
+</div>
+<div align="center">
+  <img src="./images/Q2B.png" width="60%">
+  <br>
+  <p><em>图4 - LoRa微调后</em></p>
+</div>
+问题二：用Python实现快速排序算法<br>
+<div align="center">
+  <img src="./images/Q3A.png" width="60%">
+  <br>
+  <p><em>图5 - LoRa微调前</em></p>
+</div>
+<div align="center">
+  <img src="./images/Q3B.png" width="60%">
+  <br>
+  <p><em>图6 - LoRa微调后</em></p>
+</div>
