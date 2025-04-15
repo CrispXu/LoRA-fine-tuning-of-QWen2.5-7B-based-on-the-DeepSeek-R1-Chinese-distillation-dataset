@@ -8,5 +8,10 @@
 <div align="center">
   <img src="./images/Q1A.png" width="60%">
   <br>
-  <p><em>图1 - 神经网络架构示意图</em></p>
+  <p><em>图1 - LoRa微调前</em></p>
+</div>
+<div align="center">
+  <img src="./images/Q1.png" width="60%">
+  <br>
+  <p><em>图2 - LoRa微调后</em></p>
 </div>
