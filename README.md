@@ -26,7 +26,7 @@
   <br>
   <p><em>图4 - LoRa微调后</em></p>
 </div>
-问题二：用Python实现快速排序算法<br>
+问题三：用Python实现快速排序算法<br>
 <div align="center">
   <img src="./images/Q3A.png" width="60%">
   <br>
