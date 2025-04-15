@@ -11,7 +11,7 @@
   <p><em>图1 - LoRa微调前</em></p>
 </div>
 <div align="center">
-  <img src="./images/Q1.png" width="60%">
+  <img src="./images/Q1B.png" width="60%">
   <br>
   <p><em>图2 - LoRa微调后</em></p>
 </div>
