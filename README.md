@@ -4,7 +4,7 @@
 *训练数据来源:  [中文基于满血DeepSeek-R1蒸馏数据集](https://www.modelscope.cn/datasets/liucong/Chinese-DeepSeek-R1-Distill-data-110k)。*<br>
 *验证数据来源:  [基于GPT4的中文对话增强数据](https://www.modelscope.cn/datasets/zky001/alpaca)。*<br>
 **结果展示**<br>
-问题一：如何预防感冒<br>
+问题一：如何区分感冒和流感<br>
 <div align="center">
   <img src="./images/Q1A.png" width="60%">
   <br>
@@ -15,7 +15,7 @@
   <br>
   <p><em>图2 - LoRa微调后</em></p>
 </div>
-问题二：解释相对论/量子纠缠基本原理<br>
+问题二：解释量子纠缠基本原理<br>
 <div align="center">
   <img src="./images/Q2A.png" width="60%">
   <br>
